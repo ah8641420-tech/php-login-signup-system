@@ -1,4 +1,4 @@
-# PHP Login & Registration System
+# PHP Login & Signup System
 
 A secure, complete authentication system built with PHP and MySQL featuring user registration, login, password reset, and session management.
 
@@ -30,4 +30,4 @@ A secure, complete authentication system built with PHP and MySQL featuring user
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/php-login-system.git
+git clone https://github.com/ah8641420-tech/php-login-signup-system.git
